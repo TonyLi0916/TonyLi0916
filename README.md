@@ -1,4 +1,4 @@
-# Hey, I'm Tony! 🙂👋
+# Hey, I'm Tony! 😄👋
 
 I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan University (formerly Ryerson University), residing in **Markham, Ontario** 🏠. I’m passionate about developing meaningful applications and constantly strive to improve my skills across all areas of software development 🚀. I’m particularly interested in **Full Stack Web Development, Database Design, and Cloud/DevOps**.
 
