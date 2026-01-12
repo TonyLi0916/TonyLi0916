@@ -12,6 +12,14 @@ I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan 
 - Database Design  
 
 ## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
@@ -22,7 +30,7 @@ I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan 
 ---
 
 ### ⚡ Fun Fact
-I enjoy studying Poker Theory
+I enjoy studying Poker Theory :)
 
 <!--
 **TonyLi0916/TonyLi0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
