@@ -24,7 +24,7 @@ I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan 
 ---
 
 ### ⚡ Fun Fact
-I enjoy studying Poker Theory :)
+I enjoy studying Poker Theory for fun :D
 
 <!--
 **TonyLi0916/TonyLi0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
