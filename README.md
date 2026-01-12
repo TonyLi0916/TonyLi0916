@@ -8,7 +8,7 @@ I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan 
 - Full-stack Projects
 
 ## 🌱 I’m currently learning
-- AZ-900 / Cloud fundamentals  
+- AZ-900 / Cloud Fundamentals  
 - Database Design  
 
 ## 💻 Tech Stack
