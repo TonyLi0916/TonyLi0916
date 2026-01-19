@@ -5,7 +5,7 @@ I'm currently a **Third-Year Computer Science student** at Toronto Metropolitan 
 ---
 
 ## 🔭 I’m currently working on
-- [DéxInventory](https://dex-inventory-production.up.railway.app/)
+- [DéxInventory](https://dex-inventory-production.up.railway.app/) - A collectr-style Pokémon collection tracking app
 
 ## 🌱 I’m currently learning
 - AZ-900 / Cloud Fundamentals  
